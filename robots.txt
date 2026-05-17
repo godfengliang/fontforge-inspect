@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fontforge-inspect.surge.sh/sitemap.xml
